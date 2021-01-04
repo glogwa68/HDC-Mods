@@ -1,0 +1,16 @@
+{
+  "group": "vpn_mods",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stripped_acacia_log"
+    }
+  },
+  "result": {
+    "item": "minecraft:smooth_sandstone",
+    "count": 1
+  }
+}

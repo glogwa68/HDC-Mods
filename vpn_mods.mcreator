@@ -45,6 +45,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cobble_minion_spawn"
+    },
+    {
+      "name": "Test",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test"
     }
   ],
   "variable_elements": [],
