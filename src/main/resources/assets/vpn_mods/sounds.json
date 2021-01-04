@@ -7,5 +7,14 @@
         "stream": false
       }
     ]
+  },
+  "leche": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "vpn_mods:darktek-defonce-moi-_128kbit_aac_",
+        "stream": false
+      }
+    ]
   }
 }

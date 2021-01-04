@@ -82,11 +82,11 @@ public class StartoverlaynudeProcedure extends VpnModsModElements.ModElement {
 		}
 		if (world instanceof World && !world.isRemote()) {
 			((World) world).playSound(null, new BlockPos((int) x, (int) y, (int) z),
-					(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("vpn_mods:coffin")),
+					(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("vpn_mods:leche")),
 					SoundCategory.NEUTRAL, (float) 50, (float) 1);
 		} else {
 			((World) world).playSound(x, y, z,
-					(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("vpn_mods:coffin")),
+					(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("vpn_mods:leche")),
 					SoundCategory.NEUTRAL, (float) 50, (float) 1, false);
 		}
 	}
