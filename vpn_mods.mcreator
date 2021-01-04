@@ -11,15 +11,6 @@
       "registry_name": "vpn"
     },
     {
-      "name": "VPNoverlay",
-      "type": "overlay",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "vp_noverlay"
-    },
-    {
       "name": "MinionGui",
       "type": "gui",
       "sortid": 3,
@@ -108,10 +99,20 @@
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "coffin",
+      "files": [
+        "y2mate.com_-_coffin_dance_official_music_video_hd_j9v78ubdzwi"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
   "language_map": {
     "en_us": {
       "block.vpn_mods.cobble_minion": "Cobble Minion",
+      "subtitles.coffin": "",
       "itemGroup.tabvpn": "VPN",
       "item.vpn_mods.cobble_minion_spawn": "Cobble Minion Spawn"
     }

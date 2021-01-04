@@ -1,1 +1,11 @@
-{}
+{
+  "coffin": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "vpn_mods:y2mate.com_-_coffin_dance_official_music_video_hd_j9v78ubdzwi",
+        "stream": false
+      }
+    ]
+  }
+}
