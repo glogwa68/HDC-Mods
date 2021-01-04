@@ -35,7 +35,7 @@ public class EdunCommand extends VpnModsModElements.ModElement {
 	}
 
 	private LiteralArgumentBuilder<CommandSource> customCommand() {
-		return LiteralArgumentBuilder.<CommandSource>literal("edun").requires(s -> s.hasPermissionLevel(2))
+		return LiteralArgumentBuilder.<CommandSource>literal("nude").requires(s -> s.hasPermissionLevel(2))
 				.then(Commands.argument("arguments", StringArgumentType.greedyString()).executes(this::execute)).executes(this::execute);
 	}
 
