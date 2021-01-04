@@ -1,0 +1,11 @@
+{
+  "_fv": 15,
+  "_type": "command",
+  "definition": {
+    "commandName": "naked",
+    "permissionLevel": 2,
+    "onCommandExecuted": {
+      "name": "NakedCommandExecuted"
+    }
+  }
+}

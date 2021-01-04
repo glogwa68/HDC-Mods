@@ -1,0 +1,84 @@
+{
+  "_fv": 15,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "index.png",
+          "use1Xscale": false,
+          "name": "index.png",
+          "x": 0,
+          "y": -19
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "index.png",
+          "use1Xscale": false,
+          "name": "index.png",
+          "x": 183,
+          "y": 0
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "index.png",
+          "use1Xscale": false,
+          "name": "index.png",
+          "x": 366,
+          "y": -2
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "SEX",
+          "color": {
+            "value": -65485,
+            "falpha": 0.0
+          },
+          "name": "SEX",
+          "x": 51,
+          "y": 69
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "SEX",
+          "color": {
+            "value": -16763956,
+            "falpha": 0.0
+          },
+          "name": "SEX",
+          "x": 285,
+          "y": 100
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "SEX",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "SEX",
+          "x": 140,
+          "y": 152
+        }
+      }
+    ]
+  }
+}
