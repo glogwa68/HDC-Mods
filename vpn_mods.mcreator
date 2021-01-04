@@ -1,0 +1,77 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "VPN",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vpn"
+    },
+    {
+      "name": "VPNoverlay",
+      "type": "overlay",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vp_noverlay"
+    },
+    {
+      "name": "MinionGui",
+      "type": "gui",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "minion_gui"
+    },
+    {
+      "name": "CobbleMinion",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobble_minion"
+    },
+    {
+      "name": "CobbleMinionSpawn",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobble_minion_spawn"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.vpn_mods.cobble_minion": "Cobble Minion",
+      "itemGroup.tabvpn": "VPN",
+      "item.vpn_mods.cobble_minion_spawn": "Cobble Minion Spawn"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "vpn_mods",
+    "modName": "VPN mods",
+    "version": "1.0.0",
+    "author": "clerc, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.4",
+    "modElementsPackage": "net.mcreator.vpnmods",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000652319
+}

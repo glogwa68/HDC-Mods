@@ -1,0 +1,11 @@
+{
+  "_fv": 15,
+  "_type": "tab",
+  "definition": {
+    "name": "VPN",
+    "icon": {
+      "value": "Blocks.STRUCTURE_BLOCK#2"
+    },
+    "showSearch": true
+  }
+}

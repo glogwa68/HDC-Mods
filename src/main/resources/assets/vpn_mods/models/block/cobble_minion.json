@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vpn_mods:blocks/cobblestone",
+    "up": "vpn_mods:blocks/cobblestone",
+    "north": "vpn_mods:blocks/cobblestone",
+    "east": "vpn_mods:blocks/cobblestone",
+    "south": "vpn_mods:blocks/cobblestone",
+    "west": "vpn_mods:blocks/cobblestone",
+    "particle": "vpn_mods:blocks/cobblestone"
+  }
+}

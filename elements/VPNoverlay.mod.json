@@ -1,0 +1,20 @@
+{
+  "_fv": 15,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "naked.png",
+          "use1Xscale": true,
+          "name": "naked.png",
+          "x": 305,
+          "y": -16
+        }
+      }
+    ],
+    "baseTexture": ""
+  }
+}

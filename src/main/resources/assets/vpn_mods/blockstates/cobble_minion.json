@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "vpn_mods:block/cobble_minion"
+    }
+  }
+}
